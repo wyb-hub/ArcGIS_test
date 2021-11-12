@@ -1,0 +1,6 @@
+.esri-view-width-xlarge .esri-popup__main-container,.esri-popup__content,.esri-feature__main-container{
+  background-color: #ccc;
+}
+.esri-popup__header .esri-popup__header-title:hover{
+  background-color: #515050;
+}
