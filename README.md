@@ -1,2 +1,2 @@
 # ArcGIS_test
-arcgis-test-demo 测试
+Vue2 + ArcGis test project
