@@ -4,3 +4,8 @@
 .esri-popup__header .esri-popup__header-title:hover{
   background-color: #515050;
 }
+
+/* 去除点击地图时出现的黑色边框 */
+.esri-view .esri-view-surface--inset-outline:focus::after{
+  outline: none !important; 
+}
